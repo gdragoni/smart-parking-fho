@@ -5587,39 +5587,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.google.android.gms.samples.vision.ocrreader:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.google.android.gms.samples.vision.ocrreader:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.google.android.gms.samples.vision.ocrreader:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.google.android.gms.samples.vision.ocrreader:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.google.android.gms.samples.vision.ocrreader:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.google.android.gms.samples.vision.ocrreaderteste:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.google.android.gms.samples.vision.ocrreaderteste:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.google.android.gms.samples.vision.ocrreaderteste:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.google.android.gms.samples.vision.ocrreader:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.google.android.gms.samples.vision.ocrreader:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.google.android.gms.samples.vision.ocrreader:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.ocrreader:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.google.android.gms.samples.vision.ocrreaderteste:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.google.android.gms.samples.vision.ocrreaderteste:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.google.android.gms.samples.vision.ocrreader:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.google.android.gms.samples.vision.ocrreader:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.google.android.gms.samples.vision.ocrreader:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.google.android.gms.samples.vision.ocrreader:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.google.android.gms.samples.vision.ocrreader:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.google.android.gms.samples.vision.ocrreader:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.google.android.gms.samples.vision.ocrreader:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.google.android.gms.samples.vision.ocrreader:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.google.android.gms.samples.vision.ocrreader:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.google.android.gms.samples.vision.ocrreader:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.google.android.gms.samples.vision.ocrreaderteste:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.google.android.gms.samples.vision.ocrreaderteste:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.google.android.gms.samples.vision.ocrreaderteste:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.google.android.gms.samples.vision.ocrreaderteste:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.google.android.gms.samples.vision.ocrreaderteste:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.google.android.gms.samples.vision.ocrreaderteste:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.google.android.gms.samples.vision.ocrreaderteste:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.google.android.gms.samples.vision.ocrreaderteste:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.google.android.gms.samples.vision.ocrreaderteste:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.google.android.gms.samples.vision.ocrreaderteste:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.google.android.gms.samples.vision.ocrreader:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.google.android.gms.samples.vision.ocrreader:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.google.android.gms.samples.vision.ocrreader:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.google.android.gms.samples.vision.ocrreaderteste:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.google.android.gms.samples.vision.ocrreaderteste:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.google.android.gms.samples.vision.ocrreaderteste:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.google.android.gms.samples.vision.ocrreader:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.google.android.gms.samples.vision.ocrreader:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.google.android.gms.samples.vision.ocrreader:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.google.android.gms.samples.vision.ocrreader:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.google.android.gms.samples.vision.ocrreader:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.google.android.gms.samples.vision.ocrreader:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.google.android.gms.samples.vision.ocrreaderteste:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.google.android.gms.samples.vision.ocrreaderteste:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.google.android.gms.samples.vision.ocrreaderteste:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.google.android.gms.samples.vision.ocrreaderteste:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.google.android.gms.samples.vision.ocrreaderteste:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -5671,7 +5671,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:background
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -5687,7 +5687,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundSplit
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -5703,7 +5703,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundStacked
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -5718,7 +5718,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -5733,7 +5733,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetEndWithActions
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -5748,7 +5748,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetLeft
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -5763,7 +5763,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetRight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -5778,7 +5778,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -5793,7 +5793,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetStartWithNavigation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -5806,7 +5806,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:customNavigationLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -5829,7 +5829,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:displayOptions
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -5842,7 +5842,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:divider
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -5856,7 +5856,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -5870,7 +5870,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:height
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -5881,7 +5881,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hideOnContentScroll
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -5894,7 +5894,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:homeAsUpIndicator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -5907,7 +5907,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:homeLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -5920,7 +5920,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:icon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -5933,7 +5933,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:indeterminateProgressStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -5948,7 +5948,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -5961,7 +5961,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:logo
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -5980,7 +5980,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:navigationMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -5994,7 +5994,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:popupTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -6008,7 +6008,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:progressBarPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -6021,7 +6021,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:progressBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -6032,7 +6032,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -6045,7 +6045,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitleTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -6056,7 +6056,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:title
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -6069,7 +6069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -6151,12 +6151,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.google.android.gms.samples.vision.ocrreader:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.google.android.gms.samples.vision.ocrreader:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.google.android.gms.samples.vision.ocrreader:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.google.android.gms.samples.vision.ocrreader:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.google.android.gms.samples.vision.ocrreader:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.google.android.gms.samples.vision.ocrreader:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.google.android.gms.samples.vision.ocrreaderteste:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.google.android.gms.samples.vision.ocrreaderteste:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.google.android.gms.samples.vision.ocrreaderteste:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.google.android.gms.samples.vision.ocrreaderteste:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.google.android.gms.samples.vision.ocrreaderteste:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -6179,7 +6179,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:background
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -6195,7 +6195,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundSplit
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -6208,7 +6208,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeItemLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -6222,7 +6222,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:height
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -6235,7 +6235,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitleTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -6248,7 +6248,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -6258,8 +6258,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.google.android.gms.samples.vision.ocrreader:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.google.android.gms.samples.vision.ocrreader:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.google.android.gms.samples.vision.ocrreaderteste:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.google.android.gms.samples.vision.ocrreaderteste:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -6281,7 +6281,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandActivityOverflowButtonDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -6292,7 +6292,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:initialActivityCount
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -6303,13 +6303,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.google.android.gms.samples.vision.ocrreader:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.google.android.gms.samples.vision.ocrreader:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.google.android.gms.samples.vision.ocrreader:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.google.android.gms.samples.vision.ocrreader:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.google.android.gms.samples.vision.ocrreader:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.google.android.gms.samples.vision.ocrreader:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.google.android.gms.samples.vision.ocrreader:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.google.android.gms.samples.vision.ocrreaderteste:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.google.android.gms.samples.vision.ocrreaderteste:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.google.android.gms.samples.vision.ocrreaderteste:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.google.android.gms.samples.vision.ocrreaderteste:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.google.android.gms.samples.vision.ocrreaderteste:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.google.android.gms.samples.vision.ocrreaderteste:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.google.android.gms.samples.vision.ocrreaderteste:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -6337,7 +6337,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6346,11 +6346,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonIconDimen
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6358,11 +6358,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonPanelSideLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6370,11 +6370,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listItemLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6382,11 +6382,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6394,21 +6394,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:multiChoiceItemLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showTitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6416,7 +6416,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:singleChoiceItemLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -6642,9 +6642,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.google.android.gms.samples.vision.ocrreader:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.google.android.gms.samples.vision.ocrreader:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.google.android.gms.samples.vision.ocrreaderteste:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.google.android.gms.samples.vision.ocrreaderteste:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -6703,27 +6703,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expanded
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:liftOnScroll
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -6733,10 +6733,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.google.android.gms.samples.vision.ocrreader:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.google.android.gms.samples.vision.ocrreader:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.google.android.gms.samples.vision.ocrreader:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.google.android.gms.samples.vision.ocrreader:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.google.android.gms.samples.vision.ocrreaderteste:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.google.android.gms.samples.vision.ocrreaderteste:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.google.android.gms.samples.vision.ocrreaderteste:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.google.android.gms.samples.vision.ocrreaderteste:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -6747,43 +6747,43 @@ public final class R {
       0x7f03016f, 0x7f030170, 0x7f030171, 0x7f030172
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:state_collapsed
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:state_collapsible
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:state_liftable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:state_lifted
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -6793,8 +6793,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.google.android.gms.samples.vision.ocrreader:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.google.android.gms.samples.vision.ocrreader:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.google.android.gms.samples.vision.ocrreaderteste:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.google.android.gms.samples.vision.ocrreaderteste:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6803,7 +6803,7 @@ public final class R {
       0x7f030118, 0x7f030119
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6820,11 +6820,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_scrollFlags
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6832,7 +6832,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_scrollInterpolator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -6843,9 +6843,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.google.android.gms.samples.vision.ocrreader:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.google.android.gms.samples.vision.ocrreader:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.google.android.gms.samples.vision.ocrreader:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.google.android.gms.samples.vision.ocrreaderteste:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.google.android.gms.samples.vision.ocrreaderteste:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.google.android.gms.samples.vision.ocrreaderteste:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -6881,7 +6881,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:srcCompat
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -6893,7 +6893,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -6920,7 +6920,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -6931,9 +6931,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.google.android.gms.samples.vision.ocrreader:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.google.android.gms.samples.vision.ocrreader:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.google.android.gms.samples.vision.ocrreader:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.google.android.gms.samples.vision.ocrreaderteste:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.google.android.gms.samples.vision.ocrreaderteste:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.google.android.gms.samples.vision.ocrreaderteste:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -6965,7 +6965,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tickMark
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -6977,7 +6977,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tickMarkTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -7004,7 +7004,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tickMarkTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -7144,18 +7144,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.google.android.gms.samples.vision.ocrreader:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.google.android.gms.samples.vision.ocrreader:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.google.android.gms.samples.vision.ocrreader:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.google.android.gms.samples.vision.ocrreaderteste:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.google.android.gms.samples.vision.ocrreaderteste:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.google.android.gms.samples.vision.ocrreaderteste:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.google.android.gms.samples.vision.ocrreader:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.google.android.gms.samples.vision.ocrreaderteste:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.google.android.gms.samples.vision.ocrreader:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.google.android.gms.samples.vision.ocrreader:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.google.android.gms.samples.vision.ocrreader:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.google.android.gms.samples.vision.ocrreader:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.google.android.gms.samples.vision.ocrreader:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.google.android.gms.samples.vision.ocrreader:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.google.android.gms.samples.vision.ocrreaderteste:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.google.android.gms.samples.vision.ocrreaderteste:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.google.android.gms.samples.vision.ocrreaderteste:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.google.android.gms.samples.vision.ocrreaderteste:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.google.android.gms.samples.vision.ocrreaderteste:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.google.android.gms.samples.vision.ocrreaderteste:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -7197,7 +7197,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoSizeMaxTextSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -7211,7 +7211,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoSizeMinTextSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -7226,7 +7226,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoSizePresetSizes
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -7242,7 +7242,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoSizeStepGranularity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -7262,7 +7262,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoSizeTextType
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -7277,7 +7277,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:firstBaselineToTopHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -7288,7 +7288,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontFamily
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -7303,7 +7303,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:lastBaselineToBottomHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -7318,7 +7318,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:lineHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -7333,7 +7333,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAllCaps
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -7345,142 +7345,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.google.android.gms.samples.vision.ocrreader:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.google.android.gms.samples.vision.ocrreader:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.google.android.gms.samples.vision.ocrreader:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.google.android.gms.samples.vision.ocrreaderteste:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.google.android.gms.samples.vision.ocrreaderteste:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.google.android.gms.samples.vision.ocrreaderteste:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.google.android.gms.samples.vision.ocrreader:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.google.android.gms.samples.vision.ocrreaderteste:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.google.android.gms.samples.vision.ocrreader:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.google.android.gms.samples.vision.ocrreader:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.google.android.gms.samples.vision.ocrreader:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.google.android.gms.samples.vision.ocrreader:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.google.android.gms.samples.vision.ocrreader:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.google.android.gms.samples.vision.ocrreader:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.google.android.gms.samples.vision.ocrreaderteste:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.google.android.gms.samples.vision.ocrreaderteste:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.google.android.gms.samples.vision.ocrreaderteste:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.google.android.gms.samples.vision.ocrreader:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.google.android.gms.samples.vision.ocrreaderteste:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.google.android.gms.samples.vision.ocrreader:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.google.android.gms.samples.vision.ocrreader:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.google.android.gms.samples.vision.ocrreader:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.google.android.gms.samples.vision.ocrreaderteste:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.google.android.gms.samples.vision.ocrreader:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.google.android.gms.samples.vision.ocrreader:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.google.android.gms.samples.vision.ocrreader:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.google.android.gms.samples.vision.ocrreader:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.google.android.gms.samples.vision.ocrreader:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.google.android.gms.samples.vision.ocrreader:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.google.android.gms.samples.vision.ocrreader:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.google.android.gms.samples.vision.ocrreader:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.google.android.gms.samples.vision.ocrreader:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.google.android.gms.samples.vision.ocrreader:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.google.android.gms.samples.vision.ocrreader:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.google.android.gms.samples.vision.ocrreader:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.google.android.gms.samples.vision.ocrreader:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.google.android.gms.samples.vision.ocrreader:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.google.android.gms.samples.vision.ocrreader:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.google.android.gms.samples.vision.ocrreader:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.google.android.gms.samples.vision.ocrreader:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.google.android.gms.samples.vision.ocrreader:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.google.android.gms.samples.vision.ocrreader:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.google.android.gms.samples.vision.ocrreader:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.google.android.gms.samples.vision.ocrreader:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.google.android.gms.samples.vision.ocrreader:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.google.android.gms.samples.vision.ocrreader:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.google.android.gms.samples.vision.ocrreader:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.google.android.gms.samples.vision.ocrreader:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.google.android.gms.samples.vision.ocrreader:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.google.android.gms.samples.vision.ocrreader:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.google.android.gms.samples.vision.ocrreader:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.google.android.gms.samples.vision.ocrreader:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.google.android.gms.samples.vision.ocrreader:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.google.android.gms.samples.vision.ocrreader:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.google.android.gms.samples.vision.ocrreader:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.google.android.gms.samples.vision.ocrreader:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.google.android.gms.samples.vision.ocrreader:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.google.android.gms.samples.vision.ocrreader:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.google.android.gms.samples.vision.ocrreader:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.google.android.gms.samples.vision.ocrreader:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.google.android.gms.samples.vision.ocrreader:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.google.android.gms.samples.vision.ocrreader:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.google.android.gms.samples.vision.ocrreaderteste:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.google.android.gms.samples.vision.ocrreaderteste:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.google.android.gms.samples.vision.ocrreaderteste:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.google.android.gms.samples.vision.ocrreaderteste:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.google.android.gms.samples.vision.ocrreaderteste:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.google.android.gms.samples.vision.ocrreaderteste:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.google.android.gms.samples.vision.ocrreaderteste:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.google.android.gms.samples.vision.ocrreaderteste:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.google.android.gms.samples.vision.ocrreaderteste:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.google.android.gms.samples.vision.ocrreaderteste:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.google.android.gms.samples.vision.ocrreaderteste:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.google.android.gms.samples.vision.ocrreaderteste:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.google.android.gms.samples.vision.ocrreaderteste:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.google.android.gms.samples.vision.ocrreaderteste:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.google.android.gms.samples.vision.ocrreaderteste:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.google.android.gms.samples.vision.ocrreaderteste:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.google.android.gms.samples.vision.ocrreaderteste:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.google.android.gms.samples.vision.ocrreaderteste:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.google.android.gms.samples.vision.ocrreaderteste:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.google.android.gms.samples.vision.ocrreaderteste:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.google.android.gms.samples.vision.ocrreaderteste:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.google.android.gms.samples.vision.ocrreaderteste:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.google.android.gms.samples.vision.ocrreaderteste:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.google.android.gms.samples.vision.ocrreaderteste:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.google.android.gms.samples.vision.ocrreader:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.google.android.gms.samples.vision.ocrreader:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.google.android.gms.samples.vision.ocrreader:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.google.android.gms.samples.vision.ocrreader:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.google.android.gms.samples.vision.ocrreader:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.google.android.gms.samples.vision.ocrreader:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.google.android.gms.samples.vision.ocrreader:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.google.android.gms.samples.vision.ocrreader:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.google.android.gms.samples.vision.ocrreader:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.google.android.gms.samples.vision.ocrreader:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.google.android.gms.samples.vision.ocrreader:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.google.android.gms.samples.vision.ocrreader:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.google.android.gms.samples.vision.ocrreader:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.google.android.gms.samples.vision.ocrreader:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.google.android.gms.samples.vision.ocrreader:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.google.android.gms.samples.vision.ocrreader:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.google.android.gms.samples.vision.ocrreader:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.google.android.gms.samples.vision.ocrreader:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.google.android.gms.samples.vision.ocrreader:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.google.android.gms.samples.vision.ocrreader:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.google.android.gms.samples.vision.ocrreader:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.google.android.gms.samples.vision.ocrreader:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.google.android.gms.samples.vision.ocrreader:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.google.android.gms.samples.vision.ocrreader:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.google.android.gms.samples.vision.ocrreader:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.google.android.gms.samples.vision.ocrreader:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.google.android.gms.samples.vision.ocrreader:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.google.android.gms.samples.vision.ocrreader:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.google.android.gms.samples.vision.ocrreader:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.google.android.gms.samples.vision.ocrreader:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.google.android.gms.samples.vision.ocrreader:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.google.android.gms.samples.vision.ocrreader:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.google.android.gms.samples.vision.ocrreader:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.google.android.gms.samples.vision.ocrreader:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.google.android.gms.samples.vision.ocrreaderteste:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.google.android.gms.samples.vision.ocrreaderteste:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.google.android.gms.samples.vision.ocrreaderteste:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.google.android.gms.samples.vision.ocrreaderteste:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.google.android.gms.samples.vision.ocrreaderteste:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.google.android.gms.samples.vision.ocrreaderteste:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.google.android.gms.samples.vision.ocrreaderteste:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.google.android.gms.samples.vision.ocrreaderteste:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.google.android.gms.samples.vision.ocrreaderteste:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.google.android.gms.samples.vision.ocrreaderteste:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.google.android.gms.samples.vision.ocrreaderteste:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.google.android.gms.samples.vision.ocrreaderteste:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.google.android.gms.samples.vision.ocrreaderteste:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.google.android.gms.samples.vision.ocrreaderteste:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.google.android.gms.samples.vision.ocrreaderteste:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.google.android.gms.samples.vision.ocrreaderteste:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.google.android.gms.samples.vision.ocrreaderteste:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.google.android.gms.samples.vision.ocrreaderteste:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.google.android.gms.samples.vision.ocrreaderteste:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.google.android.gms.samples.vision.ocrreaderteste:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.google.android.gms.samples.vision.ocrreaderteste:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.google.android.gms.samples.vision.ocrreaderteste:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.google.android.gms.samples.vision.ocrreaderteste:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.google.android.gms.samples.vision.ocrreaderteste:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.google.android.gms.samples.vision.ocrreaderteste:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.google.android.gms.samples.vision.ocrreaderteste:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.google.android.gms.samples.vision.ocrreaderteste:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.google.android.gms.samples.vision.ocrreader:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.google.android.gms.samples.vision.ocrreader:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.google.android.gms.samples.vision.ocrreader:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.google.android.gms.samples.vision.ocrreader:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.google.android.gms.samples.vision.ocrreader:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.google.android.gms.samples.vision.ocrreader:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.google.android.gms.samples.vision.ocrreader:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.google.android.gms.samples.vision.ocrreader:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.google.android.gms.samples.vision.ocrreader:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.google.android.gms.samples.vision.ocrreader:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.google.android.gms.samples.vision.ocrreader:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.google.android.gms.samples.vision.ocrreader:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.google.android.gms.samples.vision.ocrreader:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.google.android.gms.samples.vision.ocrreader:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.google.android.gms.samples.vision.ocrreader:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.google.android.gms.samples.vision.ocrreader:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.google.android.gms.samples.vision.ocrreader:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.google.android.gms.samples.vision.ocrreader:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.google.android.gms.samples.vision.ocrreader:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.google.android.gms.samples.vision.ocrreader:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.google.android.gms.samples.vision.ocrreaderteste:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.google.android.gms.samples.vision.ocrreaderteste:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.google.android.gms.samples.vision.ocrreaderteste:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.google.android.gms.samples.vision.ocrreaderteste:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.google.android.gms.samples.vision.ocrreaderteste:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.google.android.gms.samples.vision.ocrreaderteste:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.google.android.gms.samples.vision.ocrreaderteste:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.google.android.gms.samples.vision.ocrreaderteste:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.google.android.gms.samples.vision.ocrreaderteste:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.google.android.gms.samples.vision.ocrreaderteste:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.google.android.gms.samples.vision.ocrreaderteste:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.google.android.gms.samples.vision.ocrreaderteste:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.google.android.gms.samples.vision.ocrreader:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.google.android.gms.samples.vision.ocrreaderteste:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.google.android.gms.samples.vision.ocrreader:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.google.android.gms.samples.vision.ocrreaderteste:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.google.android.gms.samples.vision.ocrreader:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.google.android.gms.samples.vision.ocrreaderteste:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.google.android.gms.samples.vision.ocrreader:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.google.android.gms.samples.vision.ocrreaderteste:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.google.android.gms.samples.vision.ocrreader:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.google.android.gms.samples.vision.ocrreaderteste:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.google.android.gms.samples.vision.ocrreader:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.google.android.gms.samples.vision.ocrreaderteste:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.google.android.gms.samples.vision.ocrreader:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.google.android.gms.samples.vision.ocrreaderteste:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.google.android.gms.samples.vision.ocrreader:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.google.android.gms.samples.vision.ocrreaderteste:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.google.android.gms.samples.vision.ocrreader:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.google.android.gms.samples.vision.ocrreaderteste:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -7669,7 +7669,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarDivider
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -7682,7 +7682,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarItemBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -7696,7 +7696,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarPopupTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -7719,7 +7719,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -7735,7 +7735,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarSplitStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -7748,11 +7748,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7760,7 +7760,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarTabBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -7773,11 +7773,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarTabStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7785,7 +7785,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarTabTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -7800,7 +7800,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -7819,7 +7819,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionBarWidgetTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -7832,7 +7832,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -7845,7 +7845,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionDropDownStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -7859,7 +7859,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionMenuTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -7875,7 +7875,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionMenuTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -7888,11 +7888,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7900,7 +7900,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeCloseButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -7913,7 +7913,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeCloseDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -7926,7 +7926,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeCopyDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -7939,7 +7939,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeCutDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -7952,7 +7952,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeFindDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -7965,7 +7965,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModePasteDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -7978,7 +7978,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModePopupWindowStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -7991,7 +7991,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeSelectAllDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -8004,7 +8004,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeShareDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -8017,11 +8017,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeSplitBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8029,7 +8029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -8042,11 +8042,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionModeWebSearchDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8054,11 +8054,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionOverflowButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8066,7 +8066,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionOverflowMenuStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -8079,11 +8079,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:activityChooserViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8091,21 +8091,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alertDialogButtonGroupStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alertDialogCenterButtons
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8113,7 +8113,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alertDialogStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -8126,7 +8126,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alertDialogTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -8139,7 +8139,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:autoCompleteTextViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -8152,7 +8152,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:borderlessButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -8165,7 +8165,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonBarButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -8178,7 +8178,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonBarNegativeButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -8191,7 +8191,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonBarNeutralButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -8204,7 +8204,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonBarPositiveButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -8217,7 +8217,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -8230,7 +8230,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -8243,7 +8243,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonStyleSmall
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -8256,7 +8256,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkboxStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -8269,7 +8269,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkedTextViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -8282,7 +8282,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorAccent
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -8294,7 +8294,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorBackgroundFloating
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -8306,7 +8306,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorButtonNormal
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -8318,7 +8318,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorControlActivated
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -8330,7 +8330,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorControlHighlight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -8342,7 +8342,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorControlNormal
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -8359,7 +8359,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorError
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -8372,7 +8372,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorPrimary
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -8385,7 +8385,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorPrimaryDark
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -8397,7 +8397,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorSwitchThumbNormal
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -8410,7 +8410,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:controlBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -8424,7 +8424,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dialogCornerRadius
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -8438,7 +8438,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dialogPreferredPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -8451,7 +8451,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dialogTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -8464,7 +8464,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dividerHorizontal
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -8477,7 +8477,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dividerVertical
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -8490,7 +8490,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dropDownListViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -8504,7 +8504,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dropdownListPreferredItemHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -8517,7 +8517,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:editTextBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -8533,7 +8533,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:editTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -8546,7 +8546,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:editTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -8559,7 +8559,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:homeAsUpIndicator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -8572,7 +8572,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:imageButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -8585,7 +8585,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listChoiceBackgroundIndicator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -8598,7 +8598,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listDividerAlertDialog
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -8611,11 +8611,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listMenuViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8623,7 +8623,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPopupWindowStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -8637,7 +8637,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -8651,7 +8651,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeightLarge
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -8665,7 +8665,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPreferredItemHeightSmall
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -8679,7 +8679,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPreferredItemPaddingLeft
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -8693,7 +8693,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:listPreferredItemPaddingRight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -8706,7 +8706,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:panelBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -8719,7 +8719,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:panelMenuListTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -8733,7 +8733,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:panelMenuListWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -8746,7 +8746,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:popupMenuStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -8759,7 +8759,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:popupWindowStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -8772,7 +8772,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:radioButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -8785,7 +8785,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:ratingBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -8798,7 +8798,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:ratingBarStyleIndicator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -8811,7 +8811,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:ratingBarStyleSmall
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -8824,7 +8824,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:searchViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -8837,7 +8837,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:seekBarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -8852,7 +8852,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:selectableItemBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -8865,7 +8865,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:selectableItemBackgroundBorderless
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -8878,7 +8878,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:spinnerDropDownItemStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -8891,7 +8891,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:spinnerStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -8904,7 +8904,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:switchStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -8917,7 +8917,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceLargePopupMenu
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -8930,7 +8930,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceListItem
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -8943,7 +8943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceListItemSecondary
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -8956,7 +8956,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceListItemSmall
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -8969,7 +8969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearancePopupMenuHeader
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -8982,7 +8982,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceSearchResultSubtitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -8995,7 +8995,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceSearchResultTitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -9008,7 +9008,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceSmallPopupMenu
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -9024,7 +9024,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textColorAlertDialogListItem
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -9040,7 +9040,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textColorSearchUrl
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -9053,7 +9053,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:toolbarNavigationButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -9066,7 +9066,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:toolbarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -9082,7 +9082,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tooltipForegroundColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -9095,17 +9095,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tooltipFrameBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:viewInflaterClass
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -9117,7 +9117,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowActionBar
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -9130,7 +9130,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowActionBarOverlay
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -9142,7 +9142,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowActionModeOverlay
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -9162,7 +9162,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowFixedHeightMajor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -9182,7 +9182,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowFixedHeightMinor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -9202,7 +9202,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowFixedWidthMajor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -9222,7 +9222,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowFixedWidthMinor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -9243,7 +9243,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowMinWidthMajor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -9264,7 +9264,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowMinWidthMinor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -9275,7 +9275,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:windowNoTitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -9285,12 +9285,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.google.android.gms.samples.vision.ocrreader:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.google.android.gms.samples.vision.ocrreader:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.google.android.gms.samples.vision.ocrreader:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.google.android.gms.samples.vision.ocrreader:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.google.android.gms.samples.vision.ocrreader:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.google.android.gms.samples.vision.ocrreader:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.google.android.gms.samples.vision.ocrreaderteste:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.google.android.gms.samples.vision.ocrreaderteste:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.google.android.gms.samples.vision.ocrreaderteste:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.google.android.gms.samples.vision.ocrreaderteste:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.google.android.gms.samples.vision.ocrreaderteste:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -9312,11 +9312,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9329,11 +9329,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabAlignmentMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9342,11 +9342,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabCradleMargin
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9355,11 +9355,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabCradleRoundedCornerRadius
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9368,17 +9368,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabCradleVerticalOffset
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hideOnScroll
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -9388,16 +9388,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.google.android.gms.samples.vision.ocrreader:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.google.android.gms.samples.vision.ocrreader:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.google.android.gms.samples.vision.ocrreader:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.google.android.gms.samples.vision.ocrreader:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.google.android.gms.samples.vision.ocrreader:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.google.android.gms.samples.vision.ocrreader:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.google.android.gms.samples.vision.ocrreader:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.google.android.gms.samples.vision.ocrreader:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.google.android.gms.samples.vision.ocrreader:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.google.android.gms.samples.vision.ocrreaderteste:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.google.android.gms.samples.vision.ocrreaderteste:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.google.android.gms.samples.vision.ocrreaderteste:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.google.android.gms.samples.vision.ocrreaderteste:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.google.android.gms.samples.vision.ocrreaderteste:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.google.android.gms.samples.vision.ocrreaderteste:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.google.android.gms.samples.vision.ocrreaderteste:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -9426,11 +9426,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9438,21 +9438,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemHorizontalTranslationEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9461,22 +9461,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemIconSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemIconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9484,11 +9484,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemTextAppearanceActive
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9496,22 +9496,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemTextAppearanceInactive
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9526,11 +9526,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:labelVisibilityMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9538,7 +9538,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:menu
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -9548,10 +9548,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.google.android.gms.samples.vision.ocrreader:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.google.android.gms.samples.vision.ocrreader:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.google.android.gms.samples.vision.ocrreader:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.google.android.gms.samples.vision.ocrreader:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.google.android.gms.samples.vision.ocrreaderteste:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.google.android.gms.samples.vision.ocrreaderteste:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.google.android.gms.samples.vision.ocrreaderteste:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.google.android.gms.samples.vision.ocrreaderteste:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -9562,27 +9562,27 @@ public final class R {
       0x7f030038, 0x7f030039, 0x7f03003b, 0x7f03003c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_fitToContents
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_hideable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9599,17 +9599,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_peekHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_skipCollapsed
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -9619,7 +9619,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.google.android.gms.samples.vision.ocrreader:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.google.android.gms.samples.vision.ocrreaderteste:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -9636,7 +9636,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:allowStacking
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -9648,17 +9648,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.google.android.gms.samples.vision.ocrreader:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.google.android.gms.samples.vision.ocrreader:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.google.android.gms.samples.vision.ocrreader:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.google.android.gms.samples.vision.ocrreader:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.google.android.gms.samples.vision.ocrreader:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.google.android.gms.samples.vision.ocrreader:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.google.android.gms.samples.vision.ocrreader:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.google.android.gms.samples.vision.ocrreader:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.google.android.gms.samples.vision.ocrreader:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.google.android.gms.samples.vision.ocrreader:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.google.android.gms.samples.vision.ocrreader:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.google.android.gms.samples.vision.ocrreaderteste:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.google.android.gms.samples.vision.ocrreaderteste:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.google.android.gms.samples.vision.ocrreaderteste:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.google.android.gms.samples.vision.ocrreaderteste:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.google.android.gms.samples.vision.ocrreaderteste:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.google.android.gms.samples.vision.ocrreaderteste:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.google.android.gms.samples.vision.ocrreaderteste:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -9717,7 +9717,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardBackgroundColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -9731,7 +9731,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardCornerRadius
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -9745,7 +9745,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardElevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -9759,7 +9759,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardMaxElevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -9770,7 +9770,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardPreventCornerOverlap
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -9781,7 +9781,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cardUseCompatPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -9795,7 +9795,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -9809,7 +9809,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentPaddingBottom
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -9823,7 +9823,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentPaddingLeft
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -9837,7 +9837,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentPaddingRight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -9851,7 +9851,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentPaddingTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -9866,35 +9866,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.google.android.gms.samples.vision.ocrreader:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.google.android.gms.samples.vision.ocrreader:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.google.android.gms.samples.vision.ocrreader:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.google.android.gms.samples.vision.ocrreader:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.google.android.gms.samples.vision.ocrreader:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.google.android.gms.samples.vision.ocrreader:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.google.android.gms.samples.vision.ocrreader:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.google.android.gms.samples.vision.ocrreader:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.google.android.gms.samples.vision.ocrreader:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.google.android.gms.samples.vision.ocrreader:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.google.android.gms.samples.vision.ocrreader:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.google.android.gms.samples.vision.ocrreader:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.google.android.gms.samples.vision.ocrreader:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.google.android.gms.samples.vision.ocrreader:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.google.android.gms.samples.vision.ocrreader:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.google.android.gms.samples.vision.ocrreader:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.google.android.gms.samples.vision.ocrreader:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.google.android.gms.samples.vision.ocrreader:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.google.android.gms.samples.vision.ocrreader:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.google.android.gms.samples.vision.ocrreader:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.google.android.gms.samples.vision.ocrreader:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.google.android.gms.samples.vision.ocrreader:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.google.android.gms.samples.vision.ocrreader:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.google.android.gms.samples.vision.ocrreader:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.google.android.gms.samples.vision.ocrreader:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.google.android.gms.samples.vision.ocrreader:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.google.android.gms.samples.vision.ocrreader:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.google.android.gms.samples.vision.ocrreader:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.google.android.gms.samples.vision.ocrreader:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.google.android.gms.samples.vision.ocrreaderteste:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.google.android.gms.samples.vision.ocrreaderteste:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.google.android.gms.samples.vision.ocrreaderteste:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.google.android.gms.samples.vision.ocrreaderteste:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.google.android.gms.samples.vision.ocrreaderteste:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.google.android.gms.samples.vision.ocrreaderteste:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.google.android.gms.samples.vision.ocrreaderteste:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.google.android.gms.samples.vision.ocrreaderteste:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.google.android.gms.samples.vision.ocrreaderteste:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.google.android.gms.samples.vision.ocrreaderteste:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.google.android.gms.samples.vision.ocrreaderteste:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.google.android.gms.samples.vision.ocrreaderteste:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.google.android.gms.samples.vision.ocrreaderteste:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.google.android.gms.samples.vision.ocrreaderteste:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.google.android.gms.samples.vision.ocrreaderteste:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.google.android.gms.samples.vision.ocrreaderteste:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.google.android.gms.samples.vision.ocrreaderteste:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.google.android.gms.samples.vision.ocrreaderteste:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.google.android.gms.samples.vision.ocrreaderteste:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.google.android.gms.samples.vision.ocrreaderteste:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.google.android.gms.samples.vision.ocrreaderteste:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.google.android.gms.samples.vision.ocrreaderteste:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.google.android.gms.samples.vision.ocrreaderteste:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.google.android.gms.samples.vision.ocrreaderteste:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.google.android.gms.samples.vision.ocrreaderteste:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.google.android.gms.samples.vision.ocrreaderteste:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.google.android.gms.samples.vision.ocrreaderteste:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.google.android.gms.samples.vision.ocrreaderteste:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.google.android.gms.samples.vision.ocrreaderteste:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -10008,7 +10008,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10016,42 +10016,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkedIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkedIconEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkedIconVisible
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipBackgroundColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10060,11 +10060,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipCornerRadius
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10073,11 +10073,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipEndPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10085,21 +10085,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipIconEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10108,32 +10108,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipIconSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipIconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipIconVisible
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10142,11 +10142,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipMinHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10155,22 +10155,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipStartPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipStrokeColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10179,7 +10179,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipStrokeWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -10192,21 +10192,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10215,11 +10215,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconEndPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10228,11 +10228,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10241,32 +10241,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconStartPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIconVisible
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10274,11 +10274,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hideMotionSpec
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10287,11 +10287,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconEndPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10300,22 +10300,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconStartPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:rippleColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10323,11 +10323,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showMotionSpec
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10336,11 +10336,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textEndPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10349,7 +10349,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textStartPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -10359,12 +10359,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.google.android.gms.samples.vision.ocrreader:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.google.android.gms.samples.vision.ocrreader:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.google.android.gms.samples.vision.ocrreader:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.google.android.gms.samples.vision.ocrreader:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.google.android.gms.samples.vision.ocrreader:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.google.android.gms.samples.vision.ocrreader:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.google.android.gms.samples.vision.ocrreaderteste:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.google.android.gms.samples.vision.ocrreaderteste:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.google.android.gms.samples.vision.ocrreaderteste:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.google.android.gms.samples.vision.ocrreaderteste:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.google.android.gms.samples.vision.ocrreaderteste:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.google.android.gms.samples.vision.ocrreaderteste:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -10378,7 +10378,7 @@ public final class R {
       0x7f030163, 0x7f030164
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10386,11 +10386,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:checkedChip
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10399,11 +10399,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipSpacing
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10412,11 +10412,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipSpacingHorizontal
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10425,27 +10425,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipSpacingVertical
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:singleLine
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:singleSelection
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -10455,22 +10455,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.google.android.gms.samples.vision.ocrreader:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.google.android.gms.samples.vision.ocrreader:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.google.android.gms.samples.vision.ocrreader:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.google.android.gms.samples.vision.ocrreader:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.google.android.gms.samples.vision.ocrreader:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.google.android.gms.samples.vision.ocrreader:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.google.android.gms.samples.vision.ocrreader:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.google.android.gms.samples.vision.ocrreader:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.google.android.gms.samples.vision.ocrreader:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.google.android.gms.samples.vision.ocrreader:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.google.android.gms.samples.vision.ocrreader:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.google.android.gms.samples.vision.ocrreader:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.google.android.gms.samples.vision.ocrreaderteste:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.google.android.gms.samples.vision.ocrreaderteste:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.google.android.gms.samples.vision.ocrreaderteste:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.google.android.gms.samples.vision.ocrreaderteste:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.google.android.gms.samples.vision.ocrreaderteste:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.google.android.gms.samples.vision.ocrreaderteste:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.google.android.gms.samples.vision.ocrreaderteste:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.google.android.gms.samples.vision.ocrreaderteste:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -10496,7 +10496,7 @@ public final class R {
       0x7f030174, 0x7f0301c1, 0x7f0301c2, 0x7f0301cc
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10517,11 +10517,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:collapsedTitleGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10529,22 +10529,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:collapsedTitleTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentScrim
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10565,11 +10565,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10578,11 +10578,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleMargin
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10591,11 +10591,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginBottom
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10604,11 +10604,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10617,11 +10617,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10630,11 +10630,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleMarginTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10642,20 +10642,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:expandedTitleTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:scrimAnimationDuration
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10664,42 +10664,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:scrimVisibleHeightTrigger
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:statusBarScrim
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:title
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10707,7 +10707,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:toolbarId
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -10717,8 +10717,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.google.android.gms.samples.vision.ocrreader:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.google.android.gms.samples.vision.ocrreader:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.google.android.gms.samples.vision.ocrreaderteste:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.google.android.gms.samples.vision.ocrreaderteste:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -10727,7 +10727,7 @@ public final class R {
       0x7f030113, 0x7f030114
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10741,16 +10741,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_collapseMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_collapseParallaxMultiplier
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -10762,7 +10762,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.google.android.gms.samples.vision.ocrreader:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.google.android.gms.samples.vision.ocrreaderteste:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -10799,7 +10799,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alpha
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -10810,8 +10810,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.google.android.gms.samples.vision.ocrreader:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.google.android.gms.samples.vision.ocrreader:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.google.android.gms.samples.vision.ocrreaderteste:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.google.android.gms.samples.vision.ocrreaderteste:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -10841,7 +10841,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -10868,7 +10868,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -10878,9 +10878,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.google.android.gms.samples.vision.ocrreader:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.google.android.gms.samples.vision.ocrreaderteste:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.google.android.gms.samples.vision.ocrreader:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.google.android.gms.samples.vision.ocrreaderteste:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -10902,7 +10902,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:keylines
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -10918,7 +10918,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:statusBarBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -10929,15 +10929,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.google.android.gms.samples.vision.ocrreader:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.google.android.gms.samples.vision.ocrreader:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.google.android.gms.samples.vision.ocrreaderteste:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.google.android.gms.samples.vision.ocrreaderteste:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.google.android.gms.samples.vision.ocrreader:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.google.android.gms.samples.vision.ocrreaderteste:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.google.android.gms.samples.vision.ocrreader:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.google.android.gms.samples.vision.ocrreader:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.google.android.gms.samples.vision.ocrreaderteste:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.google.android.gms.samples.vision.ocrreaderteste:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.google.android.gms.samples.vision.ocrreader:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.google.android.gms.samples.vision.ocrreaderteste:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -10990,7 +10990,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_anchor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -11027,7 +11027,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_anchorGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -11039,7 +11039,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_behavior
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -11063,7 +11063,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_dodgeInsetEdges
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -11087,7 +11087,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_insetEdge
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -11099,7 +11099,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout_keyline
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -11109,8 +11109,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.google.android.gms.samples.vision.ocrreader:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.google.android.gms.samples.vision.ocrreader:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -11119,7 +11119,7 @@ public final class R {
       0x7f030041, 0x7f030042
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11127,11 +11127,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:bottomSheetDialogTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11139,7 +11139,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:bottomSheetStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -11149,14 +11149,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.google.android.gms.samples.vision.ocrreader:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.google.android.gms.samples.vision.ocrreader:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.google.android.gms.samples.vision.ocrreader:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.google.android.gms.samples.vision.ocrreader:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.google.android.gms.samples.vision.ocrreader:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.google.android.gms.samples.vision.ocrreader:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.google.android.gms.samples.vision.ocrreader:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.google.android.gms.samples.vision.ocrreader:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.google.android.gms.samples.vision.ocrreaderteste:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.google.android.gms.samples.vision.ocrreaderteste:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.google.android.gms.samples.vision.ocrreaderteste:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.google.android.gms.samples.vision.ocrreaderteste:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.google.android.gms.samples.vision.ocrreaderteste:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.google.android.gms.samples.vision.ocrreaderteste:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.google.android.gms.samples.vision.ocrreaderteste:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.google.android.gms.samples.vision.ocrreaderteste:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11182,7 +11182,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:arrowHeadLength
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -11196,7 +11196,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:arrowShaftLength
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -11210,7 +11210,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:barLength
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -11222,7 +11222,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:color
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -11236,7 +11236,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:drawableSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -11250,7 +11250,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:gapBetweenBars
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -11261,7 +11261,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:spinBars
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -11275,7 +11275,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:thickness
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11285,19 +11285,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.google.android.gms.samples.vision.ocrreader:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.google.android.gms.samples.vision.ocrreader:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.google.android.gms.samples.vision.ocrreader:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.google.android.gms.samples.vision.ocrreader:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.google.android.gms.samples.vision.ocrreader:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.google.android.gms.samples.vision.ocrreader:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.google.android.gms.samples.vision.ocrreader:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.google.android.gms.samples.vision.ocrreader:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.google.android.gms.samples.vision.ocrreader:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.google.android.gms.samples.vision.ocrreader:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.google.android.gms.samples.vision.ocrreader:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.google.android.gms.samples.vision.ocrreader:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.google.android.gms.samples.vision.ocrreaderteste:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.google.android.gms.samples.vision.ocrreaderteste:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.google.android.gms.samples.vision.ocrreaderteste:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.google.android.gms.samples.vision.ocrreaderteste:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.google.android.gms.samples.vision.ocrreaderteste:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.google.android.gms.samples.vision.ocrreaderteste:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.google.android.gms.samples.vision.ocrreaderteste:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.google.android.gms.samples.vision.ocrreaderteste:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.google.android.gms.samples.vision.ocrreaderteste:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.google.android.gms.samples.vision.ocrreaderteste:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11328,7 +11328,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -11355,11 +11355,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11368,7 +11368,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:borderWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -11382,11 +11382,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11395,11 +11395,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabCustomSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11413,11 +11413,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fabSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11425,11 +11425,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hideMotionSpec
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11438,11 +11438,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hoveredFocusedTranslationZ
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11451,11 +11451,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:maxImageSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11464,22 +11464,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:pressedTranslationZ
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:rippleColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11487,17 +11487,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showMotionSpec
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:useCompatPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -11507,7 +11507,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.google.android.gms.samples.vision.ocrreader:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.google.android.gms.samples.vision.ocrreaderteste:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -11515,13 +11515,13 @@ public final class R {
       0x7f030037
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_autoHide
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -11531,8 +11531,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.google.android.gms.samples.vision.ocrreader:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.google.android.gms.samples.vision.ocrreader:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.google.android.gms.samples.vision.ocrreaderteste:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.google.android.gms.samples.vision.ocrreaderteste:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -11541,7 +11541,7 @@ public final class R {
       0x7f030106, 0x7f03011c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11550,11 +11550,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemSpacing
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11563,7 +11563,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:lineSpacing
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -11573,12 +11573,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.google.android.gms.samples.vision.ocrreader:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.google.android.gms.samples.vision.ocrreader:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.google.android.gms.samples.vision.ocrreader:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.google.android.gms.samples.vision.ocrreader:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.google.android.gms.samples.vision.ocrreader:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.google.android.gms.samples.vision.ocrreader:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.google.android.gms.samples.vision.ocrreaderteste:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.google.android.gms.samples.vision.ocrreaderteste:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.google.android.gms.samples.vision.ocrreaderteste:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.google.android.gms.samples.vision.ocrreaderteste:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.google.android.gms.samples.vision.ocrreaderteste:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.google.android.gms.samples.vision.ocrreaderteste:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -11599,7 +11599,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderAuthority
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -11616,7 +11616,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderCerts
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -11648,7 +11648,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderFetchStrategy
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -11667,7 +11667,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderFetchTimeout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -11679,7 +11679,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderPackage
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -11691,7 +11691,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontProviderQuery
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -11706,11 +11706,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.google.android.gms.samples.vision.ocrreader:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.google.android.gms.samples.vision.ocrreader:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.google.android.gms.samples.vision.ocrreader:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.google.android.gms.samples.vision.ocrreader:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.google.android.gms.samples.vision.ocrreader:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.google.android.gms.samples.vision.ocrreaderteste:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.google.android.gms.samples.vision.ocrreaderteste:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.google.android.gms.samples.vision.ocrreaderteste:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.google.android.gms.samples.vision.ocrreaderteste:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.google.android.gms.samples.vision.ocrreaderteste:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -11797,7 +11797,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:font
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -11817,7 +11817,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -11831,7 +11831,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontVariationSettings
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -11845,7 +11845,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontWeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -11856,7 +11856,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:ttcIndex
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -11868,7 +11868,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.google.android.gms.samples.vision.ocrreader:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.google.android.gms.samples.vision.ocrreaderteste:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11920,13 +11920,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:foregroundInsidePadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -12184,11 +12184,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.google.android.gms.samples.vision.ocrreader:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.google.android.gms.samples.vision.ocrreader:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.google.android.gms.samples.vision.ocrreader:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.google.android.gms.samples.vision.ocrreaderteste:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.google.android.gms.samples.vision.ocrreaderteste:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.google.android.gms.samples.vision.ocrreaderteste:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.google.android.gms.samples.vision.ocrreader:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.google.android.gms.samples.vision.ocrreaderteste:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -12303,7 +12303,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:divider
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -12317,7 +12317,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:dividerPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -12330,7 +12330,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:measureWithLargestChild
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -12350,7 +12350,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showDividers
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -12508,9 +12508,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.google.android.gms.samples.vision.ocrreader:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.google.android.gms.samples.vision.ocrreader:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.google.android.gms.samples.vision.ocrreader:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.google.android.gms.samples.vision.ocrreaderteste:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.google.android.gms.samples.vision.ocrreaderteste:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.google.android.gms.samples.vision.ocrreaderteste:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -12520,26 +12520,26 @@ public final class R {
       0x7f030078, 0x7f0300f8, 0x7f0300f9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:circleCrop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:imageAspectRatio
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12553,7 +12553,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:imageAspectRatioAdjust
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -12567,18 +12567,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.google.android.gms.samples.vision.ocrreader:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.google.android.gms.samples.vision.ocrreader:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.google.android.gms.samples.vision.ocrreader:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.google.android.gms.samples.vision.ocrreader:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.google.android.gms.samples.vision.ocrreader:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.google.android.gms.samples.vision.ocrreader:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.google.android.gms.samples.vision.ocrreader:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.google.android.gms.samples.vision.ocrreader:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.google.android.gms.samples.vision.ocrreader:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.google.android.gms.samples.vision.ocrreader:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.google.android.gms.samples.vision.ocrreader:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.google.android.gms.samples.vision.ocrreader:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.google.android.gms.samples.vision.ocrreaderteste:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.google.android.gms.samples.vision.ocrreaderteste:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.google.android.gms.samples.vision.ocrreaderteste:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.google.android.gms.samples.vision.ocrreaderteste:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.google.android.gms.samples.vision.ocrreaderteste:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.google.android.gms.samples.vision.ocrreaderteste:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.google.android.gms.samples.vision.ocrreaderteste:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.google.android.gms.samples.vision.ocrreaderteste:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.google.android.gms.samples.vision.ocrreaderteste:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.google.android.gms.samples.vision.ocrreaderteste:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -12680,7 +12680,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -12707,11 +12707,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12720,11 +12720,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:cornerRadius
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12732,11 +12732,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:icon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12749,11 +12749,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12762,11 +12762,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12775,7 +12775,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -12787,7 +12787,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -12814,33 +12814,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:rippleColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:strokeColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12849,7 +12849,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:strokeWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -12859,8 +12859,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.google.android.gms.samples.vision.ocrreader:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.google.android.gms.samples.vision.ocrreader:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.google.android.gms.samples.vision.ocrreaderteste:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.google.android.gms.samples.vision.ocrreaderteste:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -12869,18 +12869,18 @@ public final class R {
       0x7f030175, 0x7f030176
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:strokeColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12889,7 +12889,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:strokeWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -12899,38 +12899,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.google.android.gms.samples.vision.ocrreader:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.google.android.gms.samples.vision.ocrreader:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.google.android.gms.samples.vision.ocrreader:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.google.android.gms.samples.vision.ocrreader:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.google.android.gms.samples.vision.ocrreader:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.google.android.gms.samples.vision.ocrreader:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.google.android.gms.samples.vision.ocrreader:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.google.android.gms.samples.vision.ocrreader:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.google.android.gms.samples.vision.ocrreader:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.google.android.gms.samples.vision.ocrreader:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.google.android.gms.samples.vision.ocrreader:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.google.android.gms.samples.vision.ocrreader:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.google.android.gms.samples.vision.ocrreader:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.google.android.gms.samples.vision.ocrreader:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.google.android.gms.samples.vision.ocrreader:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.google.android.gms.samples.vision.ocrreader:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.google.android.gms.samples.vision.ocrreader:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.google.android.gms.samples.vision.ocrreader:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.google.android.gms.samples.vision.ocrreader:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.google.android.gms.samples.vision.ocrreader:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.google.android.gms.samples.vision.ocrreader:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.google.android.gms.samples.vision.ocrreader:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.google.android.gms.samples.vision.ocrreader:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.google.android.gms.samples.vision.ocrreader:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.google.android.gms.samples.vision.ocrreader:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.google.android.gms.samples.vision.ocrreader:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.google.android.gms.samples.vision.ocrreaderteste:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.google.android.gms.samples.vision.ocrreaderteste:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.google.android.gms.samples.vision.ocrreaderteste:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.google.android.gms.samples.vision.ocrreaderteste:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.google.android.gms.samples.vision.ocrreaderteste:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.google.android.gms.samples.vision.ocrreaderteste:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.google.android.gms.samples.vision.ocrreaderteste:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.google.android.gms.samples.vision.ocrreaderteste:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.google.android.gms.samples.vision.ocrreaderteste:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.google.android.gms.samples.vision.ocrreaderteste:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.google.android.gms.samples.vision.ocrreaderteste:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.google.android.gms.samples.vision.ocrreaderteste:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.google.android.gms.samples.vision.ocrreaderteste:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.google.android.gms.samples.vision.ocrreaderteste:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -12976,7 +12976,7 @@ public final class R {
       0x7f0301ab, 0x7f0301b0, 0x7f0301b1, 0x7f0301b5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12984,11 +12984,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:bottomSheetDialogTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12996,11 +12996,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:bottomSheetStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13008,11 +13008,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipGroupStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13020,11 +13020,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipStandaloneStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13032,7 +13032,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:chipStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -13045,7 +13045,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorAccent
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -13057,7 +13057,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorBackgroundFloating
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -13070,7 +13070,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorPrimary
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -13083,18 +13083,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorPrimaryDark
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorSecondary
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -13107,11 +13107,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:editTextStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13137,11 +13137,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:floatingActionButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13149,11 +13149,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:materialButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13161,11 +13161,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:materialCardViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13173,11 +13173,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:navigationViewStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13188,11 +13188,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:scrimBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13200,11 +13200,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:snackbarButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13212,11 +13212,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13224,11 +13224,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceBody1
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13236,11 +13236,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceBody2
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13248,11 +13248,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceButton
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13260,11 +13260,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceCaption
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13272,11 +13272,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline1
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13284,11 +13284,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline2
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13296,11 +13296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline3
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13308,11 +13308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline4
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13320,11 +13320,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline5
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13332,11 +13332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceHeadline6
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13344,11 +13344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceOverline
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13356,11 +13356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceSubtitle1
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13368,11 +13368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAppearanceSubtitle2
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13380,7 +13380,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textInputStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -13514,18 +13514,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.google.android.gms.samples.vision.ocrreader:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.google.android.gms.samples.vision.ocrreader:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.google.android.gms.samples.vision.ocrreaderteste:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.google.android.gms.samples.vision.ocrreaderteste:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.google.android.gms.samples.vision.ocrreader:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.google.android.gms.samples.vision.ocrreaderteste:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.google.android.gms.samples.vision.ocrreader:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.google.android.gms.samples.vision.ocrreader:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.google.android.gms.samples.vision.ocrreader:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.google.android.gms.samples.vision.ocrreader:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.google.android.gms.samples.vision.ocrreader:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.google.android.gms.samples.vision.ocrreader:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.google.android.gms.samples.vision.ocrreader:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.google.android.gms.samples.vision.ocrreaderteste:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.google.android.gms.samples.vision.ocrreaderteste:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.google.android.gms.samples.vision.ocrreaderteste:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.google.android.gms.samples.vision.ocrreaderteste:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.google.android.gms.samples.vision.ocrreaderteste:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.google.android.gms.samples.vision.ocrreaderteste:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.google.android.gms.samples.vision.ocrreaderteste:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -13734,7 +13734,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -13748,7 +13748,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionProviderClass
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -13761,7 +13761,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:actionViewClass
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -13784,7 +13784,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:alphabeticModifiers
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -13795,7 +13795,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentDescription
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -13807,7 +13807,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -13834,7 +13834,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -13857,7 +13857,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:numericModifiers
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -13887,7 +13887,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showAsAction
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -13898,7 +13898,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tooltipText
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -13915,8 +13915,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.google.android.gms.samples.vision.ocrreader:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.google.android.gms.samples.vision.ocrreader:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.google.android.gms.samples.vision.ocrreaderteste:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.google.android.gms.samples.vision.ocrreaderteste:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -14035,7 +14035,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:preserveIconSpacing
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -14048,7 +14048,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subMenuArrow
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -14061,15 +14061,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.google.android.gms.samples.vision.ocrreader:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.google.android.gms.samples.vision.ocrreader:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.google.android.gms.samples.vision.ocrreader:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.google.android.gms.samples.vision.ocrreader:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.google.android.gms.samples.vision.ocrreader:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.google.android.gms.samples.vision.ocrreader:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.google.android.gms.samples.vision.ocrreader:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.google.android.gms.samples.vision.ocrreader:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.google.android.gms.samples.vision.ocrreaderteste:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.google.android.gms.samples.vision.ocrreaderteste:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.google.android.gms.samples.vision.ocrreaderteste:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.google.android.gms.samples.vision.ocrreaderteste:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.google.android.gms.samples.vision.ocrreaderteste:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.google.android.gms.samples.vision.ocrreaderteste:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.google.android.gms.samples.vision.ocrreaderteste:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -14138,11 +14138,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14150,11 +14150,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:headerLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14162,11 +14162,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14175,11 +14175,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemHorizontalPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14188,22 +14188,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemIconPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemIconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14211,22 +14211,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:itemTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14234,7 +14234,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:menu
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -14246,7 +14246,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.google.android.gms.samples.vision.ocrreader:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.google.android.gms.samples.vision.ocrreaderteste:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -14290,7 +14290,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:overlapAnchor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -14300,7 +14300,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.google.android.gms.samples.vision.ocrreader:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.google.android.gms.samples.vision.ocrreaderteste:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -14315,7 +14315,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:state_above_anchor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -14325,8 +14325,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.google.android.gms.samples.vision.ocrreader:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.google.android.gms.samples.vision.ocrreader:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.google.android.gms.samples.vision.ocrreaderteste:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.google.android.gms.samples.vision.ocrreaderteste:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -14345,7 +14345,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:paddingBottomNoButtons
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -14359,7 +14359,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:paddingTopNoTitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -14371,15 +14371,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.google.android.gms.samples.vision.ocrreader:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.google.android.gms.samples.vision.ocrreader:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.google.android.gms.samples.vision.ocrreader:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.google.android.gms.samples.vision.ocrreader:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.google.android.gms.samples.vision.ocrreader:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.google.android.gms.samples.vision.ocrreader:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.google.android.gms.samples.vision.ocrreader:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.google.android.gms.samples.vision.ocrreader:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.google.android.gms.samples.vision.ocrreader:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.google.android.gms.samples.vision.ocrreaderteste:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.google.android.gms.samples.vision.ocrreaderteste:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.google.android.gms.samples.vision.ocrreaderteste:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.google.android.gms.samples.vision.ocrreaderteste:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.google.android.gms.samples.vision.ocrreaderteste:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.google.android.gms.samples.vision.ocrreaderteste:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.google.android.gms.samples.vision.ocrreaderteste:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.google.android.gms.samples.vision.ocrreaderteste:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.google.android.gms.samples.vision.ocrreaderteste:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -14434,17 +14434,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fastScrollEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14452,11 +14452,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fastScrollHorizontalThumbDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14464,11 +14464,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fastScrollHorizontalTrackDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14476,11 +14476,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fastScrollVerticalThumbDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14488,7 +14488,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fastScrollVerticalTrackDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -14507,36 +14507,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layoutManager
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:reverseLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:spanCount
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:stackFromEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -14546,7 +14546,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.google.android.gms.samples.vision.ocrreader:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.google.android.gms.samples.vision.ocrreaderteste:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -14554,7 +14554,7 @@ public final class R {
       0x7f0300fd
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14565,7 +14565,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:insetForeground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -14575,7 +14575,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.google.android.gms.samples.vision.ocrreader:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.google.android.gms.samples.vision.ocrreaderteste:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -14583,7 +14583,7 @@ public final class R {
       0x7f03003a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14592,7 +14592,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:behavior_overlapTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -14606,20 +14606,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.google.android.gms.samples.vision.ocrreader:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.google.android.gms.samples.vision.ocrreader:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.google.android.gms.samples.vision.ocrreader:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.google.android.gms.samples.vision.ocrreaderteste:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.google.android.gms.samples.vision.ocrreaderteste:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.google.android.gms.samples.vision.ocrreaderteste:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.google.android.gms.samples.vision.ocrreader:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.google.android.gms.samples.vision.ocrreader:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.google.android.gms.samples.vision.ocrreader:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.google.android.gms.samples.vision.ocrreader:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.google.android.gms.samples.vision.ocrreader:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.google.android.gms.samples.vision.ocrreader:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.google.android.gms.samples.vision.ocrreader:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.google.android.gms.samples.vision.ocrreader:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.google.android.gms.samples.vision.ocrreader:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.google.android.gms.samples.vision.ocrreader:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.google.android.gms.samples.vision.ocrreaderteste:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.google.android.gms.samples.vision.ocrreaderteste:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.google.android.gms.samples.vision.ocrreaderteste:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.google.android.gms.samples.vision.ocrreaderteste:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.google.android.gms.samples.vision.ocrreaderteste:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.google.android.gms.samples.vision.ocrreaderteste:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.google.android.gms.samples.vision.ocrreaderteste:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.google.android.gms.samples.vision.ocrreaderteste:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.google.android.gms.samples.vision.ocrreaderteste:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.google.android.gms.samples.vision.ocrreaderteste:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -14769,7 +14769,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:closeIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -14782,7 +14782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:commitIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -14794,7 +14794,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:defaultQueryHint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -14807,7 +14807,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:goIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -14819,7 +14819,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:iconifiedByDefault
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -14832,7 +14832,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:layout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -14845,7 +14845,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:queryBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -14856,7 +14856,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:queryHint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -14869,7 +14869,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:searchHintIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -14882,7 +14882,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:searchIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -14895,7 +14895,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:submitBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -14908,7 +14908,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:suggestionRowLayout
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -14921,7 +14921,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:voiceIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -14931,9 +14931,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.google.android.gms.samples.vision.ocrreader:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.google.android.gms.samples.vision.ocrreader:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.google.android.gms.samples.vision.ocrreader:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.google.android.gms.samples.vision.ocrreaderteste:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.google.android.gms.samples.vision.ocrreaderteste:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.google.android.gms.samples.vision.ocrreaderteste:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -14943,7 +14943,7 @@ public final class R {
       0x7f030054, 0x7f03008f, 0x7f030153
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14961,11 +14961,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonSize
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14983,11 +14983,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:colorScheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14997,7 +14997,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:scopeUris
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -15007,8 +15007,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.google.android.gms.samples.vision.ocrreader:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.google.android.gms.samples.vision.ocrreader:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.google.android.gms.samples.vision.ocrreaderteste:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.google.android.gms.samples.vision.ocrreaderteste:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -15017,7 +15017,7 @@ public final class R {
       0x7f030165, 0x7f030166
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15025,11 +15025,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:snackbarButtonStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15037,7 +15037,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:snackbarStyle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -15048,8 +15048,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.google.android.gms.samples.vision.ocrreader:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.google.android.gms.samples.vision.ocrreader:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.google.android.gms.samples.vision.ocrreaderteste:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.google.android.gms.samples.vision.ocrreaderteste:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -15082,11 +15082,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:elevation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15095,7 +15095,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:maxActionInlineWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -15109,7 +15109,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.google.android.gms.samples.vision.ocrreader:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.google.android.gms.samples.vision.ocrreaderteste:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -15198,7 +15198,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:popupTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -15338,17 +15338,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.google.android.gms.samples.vision.ocrreader:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.google.android.gms.samples.vision.ocrreader:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.google.android.gms.samples.vision.ocrreader:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.google.android.gms.samples.vision.ocrreader:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.google.android.gms.samples.vision.ocrreader:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.google.android.gms.samples.vision.ocrreader:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.google.android.gms.samples.vision.ocrreader:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.google.android.gms.samples.vision.ocrreader:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.google.android.gms.samples.vision.ocrreader:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.google.android.gms.samples.vision.ocrreader:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.google.android.gms.samples.vision.ocrreader:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.google.android.gms.samples.vision.ocrreaderteste:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.google.android.gms.samples.vision.ocrreaderteste:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.google.android.gms.samples.vision.ocrreaderteste:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.google.android.gms.samples.vision.ocrreaderteste:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.google.android.gms.samples.vision.ocrreaderteste:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.google.android.gms.samples.vision.ocrreaderteste:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.google.android.gms.samples.vision.ocrreaderteste:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.google.android.gms.samples.vision.ocrreaderteste:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.google.android.gms.samples.vision.ocrreaderteste:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.google.android.gms.samples.vision.ocrreaderteste:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -15414,7 +15414,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:showText
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -15425,7 +15425,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:splitTrack
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -15439,7 +15439,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:switchMinWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -15453,7 +15453,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:switchPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -15466,7 +15466,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:switchTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -15480,7 +15480,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:thumbTextPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -15492,7 +15492,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:thumbTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -15519,7 +15519,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:thumbTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -15532,7 +15532,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:track
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -15544,7 +15544,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:trackTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -15571,7 +15571,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:trackTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -15633,31 +15633,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.google.android.gms.samples.vision.ocrreader:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.google.android.gms.samples.vision.ocrreader:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.google.android.gms.samples.vision.ocrreader:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.google.android.gms.samples.vision.ocrreader:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.google.android.gms.samples.vision.ocrreader:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.google.android.gms.samples.vision.ocrreader:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.google.android.gms.samples.vision.ocrreader:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.google.android.gms.samples.vision.ocrreader:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.google.android.gms.samples.vision.ocrreader:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.google.android.gms.samples.vision.ocrreader:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.google.android.gms.samples.vision.ocrreader:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.google.android.gms.samples.vision.ocrreader:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.google.android.gms.samples.vision.ocrreader:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.google.android.gms.samples.vision.ocrreader:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.google.android.gms.samples.vision.ocrreader:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.google.android.gms.samples.vision.ocrreader:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.google.android.gms.samples.vision.ocrreader:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.google.android.gms.samples.vision.ocrreader:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.google.android.gms.samples.vision.ocrreader:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.google.android.gms.samples.vision.ocrreader:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.google.android.gms.samples.vision.ocrreader:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.google.android.gms.samples.vision.ocrreader:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.google.android.gms.samples.vision.ocrreader:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.google.android.gms.samples.vision.ocrreader:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.google.android.gms.samples.vision.ocrreader:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.google.android.gms.samples.vision.ocrreaderteste:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.google.android.gms.samples.vision.ocrreaderteste:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.google.android.gms.samples.vision.ocrreaderteste:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.google.android.gms.samples.vision.ocrreaderteste:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.google.android.gms.samples.vision.ocrreaderteste:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.google.android.gms.samples.vision.ocrreaderteste:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.google.android.gms.samples.vision.ocrreaderteste:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.google.android.gms.samples.vision.ocrreaderteste:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.google.android.gms.samples.vision.ocrreaderteste:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.google.android.gms.samples.vision.ocrreaderteste:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.google.android.gms.samples.vision.ocrreaderteste:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.google.android.gms.samples.vision.ocrreaderteste:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.google.android.gms.samples.vision.ocrreaderteste:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.google.android.gms.samples.vision.ocrreaderteste:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.google.android.gms.samples.vision.ocrreaderteste:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -15695,7 +15695,7 @@ public final class R {
       0x7f03019b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15703,11 +15703,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabBackground
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15716,11 +15716,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabContentStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15733,22 +15733,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIconTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15765,11 +15765,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIconTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15777,41 +15777,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicator
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicatorAnimationDuration
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicatorColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicatorFullWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15826,11 +15826,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicatorGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15839,21 +15839,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabIndicatorHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabInlineLabel
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15862,11 +15862,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabMaxWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15875,11 +15875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabMinWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15892,11 +15892,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15905,11 +15905,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabPadding
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15918,11 +15918,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabPaddingBottom
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15931,11 +15931,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabPaddingEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15944,11 +15944,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabPaddingStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15957,33 +15957,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabPaddingTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabRippleColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabSelectedTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15991,28 +15991,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:tabUnboundedRipple
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -16033,8 +16033,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.google.android.gms.samples.vision.ocrreader:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.google.android.gms.samples.vision.ocrreader:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.google.android.gms.samples.vision.ocrreaderteste:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.google.android.gms.samples.vision.ocrreaderteste:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -16207,7 +16207,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:fontFamily
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -16222,7 +16222,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:textAllCaps
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -16234,32 +16234,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.google.android.gms.samples.vision.ocrreader:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.google.android.gms.samples.vision.ocrreader:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.google.android.gms.samples.vision.ocrreader:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.google.android.gms.samples.vision.ocrreader:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.google.android.gms.samples.vision.ocrreader:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.google.android.gms.samples.vision.ocrreader:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.google.android.gms.samples.vision.ocrreader:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.google.android.gms.samples.vision.ocrreader:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.google.android.gms.samples.vision.ocrreader:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.google.android.gms.samples.vision.ocrreader:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.google.android.gms.samples.vision.ocrreader:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.google.android.gms.samples.vision.ocrreader:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.google.android.gms.samples.vision.ocrreader:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.google.android.gms.samples.vision.ocrreader:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.google.android.gms.samples.vision.ocrreader:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.google.android.gms.samples.vision.ocrreader:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.google.android.gms.samples.vision.ocrreader:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.google.android.gms.samples.vision.ocrreader:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.google.android.gms.samples.vision.ocrreader:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.google.android.gms.samples.vision.ocrreader:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.google.android.gms.samples.vision.ocrreader:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.google.android.gms.samples.vision.ocrreader:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.google.android.gms.samples.vision.ocrreaderteste:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.google.android.gms.samples.vision.ocrreaderteste:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.google.android.gms.samples.vision.ocrreaderteste:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.google.android.gms.samples.vision.ocrreaderteste:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.google.android.gms.samples.vision.ocrreaderteste:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.google.android.gms.samples.vision.ocrreaderteste:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.google.android.gms.samples.vision.ocrreaderteste:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.google.android.gms.samples.vision.ocrreaderteste:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.google.android.gms.samples.vision.ocrreaderteste:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.google.android.gms.samples.vision.ocrreaderteste:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.google.android.gms.samples.vision.ocrreaderteste:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.google.android.gms.samples.vision.ocrreaderteste:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -16325,18 +16325,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxBackgroundColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16350,11 +16350,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxBackgroundMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16363,11 +16363,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxCollapsedPaddingTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16376,11 +16376,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusBottomEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16389,11 +16389,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusBottomStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16402,11 +16402,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusTopEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16415,22 +16415,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxCornerRadiusTopStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxStrokeColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16439,30 +16439,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:boxStrokeWidth
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:counterEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:counterMaxLength
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16470,11 +16470,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:counterOverflowTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16482,21 +16482,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:counterTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:errorEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16504,31 +16504,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:errorTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:helperText
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:helperTextEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16536,31 +16536,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:helperTextTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hintAnimationEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hintEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16568,21 +16568,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:hintTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:passwordToggleContentDescription
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16590,32 +16590,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:passwordToggleDrawable
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:passwordToggleEnabled
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:passwordToggleTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16631,7 +16631,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:passwordToggleTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -16642,8 +16642,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.google.android.gms.samples.vision.ocrreader:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.google.android.gms.samples.vision.ocrreader:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.google.android.gms.samples.vision.ocrreaderteste:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -16665,23 +16665,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:enforceMaterialTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:enforceTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -16693,40 +16693,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.google.android.gms.samples.vision.ocrreader:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.google.android.gms.samples.vision.ocrreader:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.google.android.gms.samples.vision.ocrreader:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.google.android.gms.samples.vision.ocrreader:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.google.android.gms.samples.vision.ocrreader:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.google.android.gms.samples.vision.ocrreaderteste:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.google.android.gms.samples.vision.ocrreaderteste:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.google.android.gms.samples.vision.ocrreaderteste:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.google.android.gms.samples.vision.ocrreader:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.google.android.gms.samples.vision.ocrreader:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.google.android.gms.samples.vision.ocrreader:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.ocrreader:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.google.android.gms.samples.vision.ocrreaderteste:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.google.android.gms.samples.vision.ocrreaderteste:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.google.android.gms.samples.vision.ocrreader:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.google.android.gms.samples.vision.ocrreader:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.google.android.gms.samples.vision.ocrreaderteste:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.google.android.gms.samples.vision.ocrreaderteste:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.google.android.gms.samples.vision.ocrreader:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.google.android.gms.samples.vision.ocrreader:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.google.android.gms.samples.vision.ocrreaderteste:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.google.android.gms.samples.vision.ocrreaderteste:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.google.android.gms.samples.vision.ocrreader:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.google.android.gms.samples.vision.ocrreaderteste:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.google.android.gms.samples.vision.ocrreader:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.google.android.gms.samples.vision.ocrreaderteste:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.google.android.gms.samples.vision.ocrreader:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.google.android.gms.samples.vision.ocrreader:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.google.android.gms.samples.vision.ocrreader:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.google.android.gms.samples.vision.ocrreader:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.google.android.gms.samples.vision.ocrreader:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.google.android.gms.samples.vision.ocrreaderteste:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.google.android.gms.samples.vision.ocrreaderteste:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.google.android.gms.samples.vision.ocrreaderteste:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.google.android.gms.samples.vision.ocrreader:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.google.android.gms.samples.vision.ocrreader:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.google.android.gms.samples.vision.ocrreader:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.google.android.gms.samples.vision.ocrreader:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.google.android.gms.samples.vision.ocrreader:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.google.android.gms.samples.vision.ocrreader:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.google.android.gms.samples.vision.ocrreader:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.google.android.gms.samples.vision.ocrreaderteste:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.google.android.gms.samples.vision.ocrreaderteste:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.google.android.gms.samples.vision.ocrreaderteste:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.google.android.gms.samples.vision.ocrreaderteste:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.google.android.gms.samples.vision.ocrreaderteste:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.google.android.gms.samples.vision.ocrreaderteste:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.google.android.gms.samples.vision.ocrreaderteste:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -16812,7 +16812,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16825,7 +16825,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:buttonGravity
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -16836,7 +16836,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:collapseContentDescription
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -16849,7 +16849,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:collapseIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -16864,7 +16864,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -16879,7 +16879,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetEndWithActions
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -16894,7 +16894,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetLeft
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -16909,7 +16909,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetRight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -16924,7 +16924,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -16939,7 +16939,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:contentInsetStartWithNavigation
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -16953,7 +16953,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:logo
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -16965,11 +16965,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:logoDescription
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16978,7 +16978,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:maxButtonHeight
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -16990,7 +16990,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:navigationContentDescription
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -17004,7 +17004,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:navigationIcon
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -17018,7 +17018,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:popupTheme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -17029,11 +17029,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitle
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17041,7 +17041,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitleTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -17053,17 +17053,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:subtitleTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:title
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -17078,7 +17078,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMargin
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -17094,7 +17094,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMarginBottom
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -17110,7 +17110,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMarginEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -17126,7 +17126,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMarginStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -17142,7 +17142,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMarginTop
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -17156,12 +17156,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleMargins
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreader.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.ocrreaderteste.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17169,7 +17169,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleTextAppearance
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -17181,7 +17181,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:titleTextColor
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -17193,9 +17193,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.google.android.gms.samples.vision.ocrreader:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.google.android.gms.samples.vision.ocrreader:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.google.android.gms.samples.vision.ocrreader:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.google.android.gms.samples.vision.ocrreaderteste:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.google.android.gms.samples.vision.ocrreaderteste:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.google.android.gms.samples.vision.ocrreaderteste:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -17257,7 +17257,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:paddingEnd
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -17271,7 +17271,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:paddingStart
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -17284,7 +17284,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:theme
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:theme
      */
     public static final int View_theme=4;
     /**
@@ -17295,8 +17295,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.google.android.gms.samples.vision.ocrreader:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.google.android.gms.samples.vision.ocrreader:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -17329,7 +17329,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTint
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -17356,7 +17356,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.google.android.gms.samples.vision.ocrreader:backgroundTintMode
+     * @attr name com.google.android.gms.samples.vision.ocrreaderteste:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gdragoni/Downloads/smart-parking-fho-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/Users/gabrieldragoni/Desktop/smart-parking-fho/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/gdragoni/Downloads/smart-parking-fho-master/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/Users/gabrieldragoni/Desktop/smart-parking-fho/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

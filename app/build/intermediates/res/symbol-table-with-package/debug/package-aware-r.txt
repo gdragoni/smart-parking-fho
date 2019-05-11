@@ -1,4 +1,4 @@
-com.google.android.gms.samples.vision.ocrreader
+com.google.android.gms.samples.vision.ocrreaderteste
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

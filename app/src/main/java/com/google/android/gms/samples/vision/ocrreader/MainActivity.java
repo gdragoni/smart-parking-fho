@@ -19,8 +19,10 @@ package com.google.android.gms.samples.vision.ocrreader;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 
@@ -31,6 +33,8 @@ import com.google.android.gms.samples.vision.ocrreader.webservice.APIInterface;
 
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -47,9 +51,13 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private CompoundButton useFlash;
     private TextView statusMessage;
     private TextView textValue;
+    private Button button;
 
+    private String regex = "@\\d+";
     private static final int RC_OCR_CAPTURE = 9003;
     private static final String TAG = "MainActivity";
+    Timer timer;
+    Integer timeToRunCamera;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,54 +70,76 @@ public class MainActivity extends Activity implements View.OnClickListener {
         autoFocus = (CompoundButton) findViewById(R.id.auto_focus);
         useFlash = (CompoundButton) findViewById(R.id.use_flash);
 
-        findViewById(R.id.read_text).setOnClickListener(this);
+        button = findViewById(R.id.read_text);
+        button.setOnClickListener(this);
     }
 
-    /**
-     * Called when a view has been clicked.
-     *
-     * @param v The view that was clicked.
-     */
     @Override
     public void onClick(View v) {
-        if (v.getId() == R.id.read_text) {
-            // launch Ocr capture activity.
-            Intent intent = new Intent(this, OcrCaptureActivity.class);
-            intent.putExtra(OcrCaptureActivity.AutoFocus, autoFocus.isChecked());
-            intent.putExtra(OcrCaptureActivity.UseFlash, useFlash.isChecked());
-
-            startActivityForResult(intent, RC_OCR_CAPTURE);
+        if(timer == null) {
+            openCamera();
+        } else {
+            cancelTimer();
         }
     }
 
-    /**
-     * Called when an activity you launched exits, giving you the requestCode
-     * you started it with, the resultCode it returned, and any additional
-     * data from it.  The <var>resultCode</var> will be
-     * {@link #RESULT_CANCELED} if the activity explicitly returned that,
-     * didn't return any result, or crashed during its operation.
-     * <p/>
-     * <p>You will receive this call immediately before onResume() when your
-     * activity is re-starting.
-     * <p/>
-     *
-     * @param requestCode The integer request code originally supplied to
-     *                    startActivityForResult(), allowing you to identify who this
-     *                    result came from.
-     * @param resultCode  The integer result code returned by the child activity
-     *                    through its setResult().
-     * @param data        An Intent, which can return result data to the caller
-     *                    (various data can be attached to Intent "extras").
-     * @see #startActivityForResult
-     * @see #createPendingResult
-     * @see #setResult(int)
-     */
+    void openCamera() {
+        Intent intent = new Intent(this, OcrCaptureActivity.class);
+        intent.putExtra(OcrCaptureActivity.AutoFocus, autoFocus.isChecked());
+        intent.putExtra(OcrCaptureActivity.UseFlash, useFlash.isChecked());
+
+        startActivityForResult(intent, RC_OCR_CAPTURE);
+    }
+
+    class CameraTimerTask extends TimerTask {
+
+        @Override
+        public void run() {
+            runOnUiThread(new Runnable() {
+
+                @Override
+                public void run() {
+
+                    statusMessage.setText("Run in " + timeToRunCamera);
+                }
+            });
+
+            if(timeToRunCamera == 0) {
+                cancelTimer();
+                openCamera();
+            }
+            timeToRunCamera--;
+        }
+    };
+
+    void cancelTimer() {
+        timer.cancel();
+        timer.purge();
+        timer = null;
+        runOnUiThread(new Runnable() {
+
+            @Override
+            public void run() {
+
+                button.setText("DETECT TEXT");
+                statusMessage.setText("");
+            }
+        });
+    }
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if(requestCode == RC_OCR_CAPTURE) {
             if (resultCode == CommonStatusCodes.SUCCESS) {
                 if (data != null) {
                     ArrayList<String> allText = data.getStringArrayListExtra(OcrCaptureActivity.TextBlockObject);
+                    ArrayList<String> allTextFiltered = new ArrayList<>();
+                    for(String entry : allText) {
+                        if(entry.matches(regex) && !allTextFiltered.contains(entry)) {
+                            allTextFiltered.add(entry);
+                        }
+                    }
+                    this.textValue.setText(TextUtils.join(",", allTextFiltered));
 //                    HashSet<String> hashSet = new HashSet<String>();
 //                    hashSet.addAll(allText);
 //                    allText.clear();
@@ -129,10 +159,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
 //                            call.cancel();
 //                        }
 //                    });
-
-                    for (String string: allText){
-                        Log.d(TAG, "Text read: " + string);
-                    }
+                    timeToRunCamera = 5;
+                    timer = new Timer();
+                    timer.schedule(new CameraTimerTask(), 0, 1000);
+                    button.setText("STOP TIMER");
                 } else {
                     statusMessage.setText(R.string.ocr_failure);
                     Log.d(TAG, "No Text captured, intent data is null");
