@@ -27,12 +27,11 @@ import android.widget.CompoundButton;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
-import com.google.android.gms.samples.vision.ocrreader.models.SendParkingsRequest;
+import com.google.android.gms.samples.vision.ocrreader.models.Parking;
 import com.google.android.gms.samples.vision.ocrreader.webservice.APIClient;
 import com.google.android.gms.samples.vision.ocrreader.webservice.APIInterface;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -134,31 +133,30 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 if (data != null) {
                     ArrayList<String> allText = data.getStringArrayListExtra(OcrCaptureActivity.TextBlockObject);
                     ArrayList<String> allTextFiltered = new ArrayList<>();
+                    ArrayList<Parking> request = new ArrayList<>();
                     for(String entry : allText) {
                         if(entry.matches(regex) && !allTextFiltered.contains(entry)) {
                             allTextFiltered.add(entry);
+                            request.add(new Parking(entry));
                         }
                     }
                     this.textValue.setText(TextUtils.join(",", allTextFiltered));
-//                    HashSet<String> hashSet = new HashSet<String>();
-//                    hashSet.addAll(allText);
-//                    allText.clear();
-//                    allText.addAll(hashSet);
-//                    APIInterface apiInterface = APIClient.getClient().create(APIInterface.class);
-//
-//                    Call<Void> call = apiInterface.sendParkings(new SendParkingsRequest(allText));
-//
-//                    call.enqueue(new Callback<Void>() {
-//                        @Override
-//                        public void onResponse(Call<Void> call, Response<Void> response) {
-//
-//                        }
-//
-//                        @Override
-//                        public void onFailure(Call<Void> call, Throwable t) {
-//                            call.cancel();
-//                        }
-//                    });
+
+                    APIInterface apiInterface = APIClient.getClient().create(APIInterface.class);
+
+                    Call<Void> call = apiInterface.sendParkings(request);
+
+                    call.enqueue(new Callback<Void>() {
+                        @Override
+                        public void onResponse(Call<Void> call, Response<Void> response) {
+
+                        }
+
+                        @Override
+                        public void onFailure(Call<Void> call, Throwable t) {
+                            call.cancel();
+                        }
+                    });
                     timeToRunCamera = 5;
                     timer = new Timer();
                     timer.schedule(new CameraTimerTask(), 0, 1000);

@@ -18,7 +18,7 @@ public class APIClient {
 
 
         retrofit = new Retrofit.Builder()
-                .baseUrl("localhost:8000")
+                .baseUrl("https://smartparkingfho.herokuapp.com/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(client)
                 .build();
